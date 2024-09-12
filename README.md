@@ -1,0 +1,2 @@
+# JavaSuckript
+javascript library
